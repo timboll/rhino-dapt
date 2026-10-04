@@ -1,0 +1,32 @@
+[
+  {
+    "id": "version_annotation_conflicts",
+    "reason": "94 distinct members in RhinoCommon/Rhino3dm XML are annotated since Rhino 8.36/9.0 despite existing in the selected 8.35 binaries. Including accessor and declaring-type propagation, 264 symbol documentation blocks retain exact-release XML and original notes, with an explicit availability-discrepancy notice. Inclusion is resolved by brief section 4: selected binary presence is authoritative for existence. The publisher annotation itself remains unresolved. See manifest/version_conflicts.jsonl.",
+    "severity": "publisher_metadata_discrepancy"
+  },
+  {
+    "id": "ecosystem_scope",
+    "reason": "Stable Rhino.Inside.Revit 1.35 and CPython 0.8.2 are inventoried and included as separate families; AutoCAD/Civil3D 1.3.5 source declarations are inventoried separately and excluded because its README explicitly labels the project early Alpha testing; exact SR35 RhinoWindows metadata is included. The independently inventoried Rhino.Inside loader 8.0.7-beta and Rhino.Testing 8.0.28-beta are excluded under the no-unapproved-beta rule. Historical RhinoMobile (last repository push 2018) and current Rhino9-only native SDK repository are excluded with cached evidence. Windows COM binary comparison and host runtime/typed binding remain limitations.",
+    "severity": "explicit_version_exclusions"
+  },
+  {
+    "id": "example_binding",
+    "reason": "1486 dotted-reference candidates and 797 XML references have explicit exceptions, not full typed validation. Known source defects are retained with provenance; representative compiles do not validate every example. Separate Python guide-block checks and their explicit original-source defects are recorded in reports/parsing_failures.md and manifest/guide_code_validation.jsonl.",
+    "severity": "validation_limit"
+  },
+  {
+    "id": "documentation_gaps",
+    "reason": "182203 inventoried declarations lack matched semantic XML/docstrings. Every declaration is represented by metadata or full header/source. Rhino.UI.dll has no separate XML in the installed distribution or matching RhinoCommon/RhinoWindows packages, and no exact type matches in the inspected web API dataset. Selected official guides/examples remain included. See reports/documentation_richness.md for the exact search and attachment evidence.",
+    "severity": "coverage_disclosure"
+  },
+  {
+    "id": "native_parser",
+    "reason": "Doxygen plus full-header preservation and Clang umbrella-header check establish a reproducible native inventory; explicit Windows/macOS/Linux-openNURBS macro profiles are inventoried, with zero generic-only declarations after source-coordinate reconciliation; these have not been independently exhaustively compared to a Windows compiler AST.",
+    "severity": "validation_limit"
+  },
+  {
+    "id": "redistribution",
+    "reason": "Per-source license/copyright evidence retained; redistribution rights for corpus or eventual trained model have not been approved.",
+    "severity": "later_review"
+  }
+]

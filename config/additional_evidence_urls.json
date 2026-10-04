@@ -1,0 +1,10 @@
+{
+  "grasshopper-web.html": "https://developer.rhino3d.com/api/grasshopper/html/N_Grasshopper.htm",
+  "rhinocommon-api-loader.js": "https://developer.rhino3d.com/api/rhinocommon/assets/api-Bk4zQfZx.js",
+  "rhinocommon-api_info.json": "https://developer.rhino3d.com/api/rhinocommon/data/api_info.json",
+  "rhinocommon-app.js": "https://developer.rhino3d.com/api/rhinocommon/assets/index-Bdun-UPB.js",
+  "rhinocommon-web.html": "https://developer.rhino3d.com/api/rhinocommon/?version=8.x",
+  "rhinoscript-navigation.html": "https://developer.rhino3d.com/api/rhinoscript/whgdata/whnvp30.htm",
+  "rhinoscript-toc.html": "https://developer.rhino3d.com/api/rhinoscript/whnjs.htm",
+  "rhinoscript-web.html": "https://developer.rhino3d.com/api/rhinoscript/"
+}

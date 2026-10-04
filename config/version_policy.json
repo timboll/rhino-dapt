@@ -1,0 +1,11 @@
+{
+  "authority": "docs/DAPT_CORPUS_BUILD_BRIEF.md section 4",
+  "conflicting_since_annotation": "retain original exact-release XML and annotate discrepancy; target binary proves inclusion; publisher annotation remains disclosed",
+  "current_mixed_web_references": "discovery/reconciliation only; never replace exact-version target authority",
+  "declaration_existence": "selected exact binary metadata",
+  "future_only_declarations": "exclude when absent from selected binary inventory",
+  "host_mobile_scope": "explicit section 3.I deferrals, listed in source_families manifest",
+  "semantic_documentation": "XML distributed with that binary or its exact published release",
+  "standalone_rhino3dm": "8.35.0",
+  "target": "8.35.26251.13002"
+}

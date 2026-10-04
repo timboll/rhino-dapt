@@ -1,0 +1,16 @@
+{
+  "counts": {
+    "generic_audit": 47893,
+    "linux_x64_opennurbs": 19927,
+    "macos_arm64": 48166,
+    "windows_x64": 49213
+  },
+  "generic_only": 0,
+  "method": "Doxygen with explicit platform macros and staged include paths; complete shipped headers retained; this is not a native compiler ABI proof",
+  "profiles": [
+    "generic_audit",
+    "windows_x64",
+    "macos_arm64",
+    "linux_x64_opennurbs"
+  ]
+}

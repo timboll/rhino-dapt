@@ -1,0 +1,73 @@
+{
+  "blocked_capabilities": [],
+  "canonical_complete": true,
+  "canonical_completion": {
+    "basis": "clean authoritative-input rebuild; all inventoried target declarations represented; stable hosts included; alpha/beta/historical exclusions separately inventoried and justified; exact XML attachment verified; tests and canonical/inventory reproducibility passed",
+    "records": 149084,
+    "sha256": "509f8249721c2fda66432f6e0b8cf5c95219a2f786292decd604e9785fc85d8f",
+    "symbols": {
+      "symbols_absent": 0,
+      "symbols_discovered": 244003,
+      "symbols_documented": 61800,
+      "symbols_represented": 244003
+    },
+    "timestamp": "2026-10-04T00:45:27.716047+00:00"
+  },
+  "canonical_completion_history": [
+    {
+      "basis": "all selected target symbols represented; all sources dispositioned; section 3.I host/mobile deferrals explicit; section 4 availability discrepancies resolved for inclusion; 20 tests and cached byte-identical rebuild passed",
+      "records": 142507,
+      "revocation_reason": "Grasshopper semantic attachment defect; subsequent additional-family and native platform audit still in progress",
+      "revoked": true,
+      "sha256": "b85a2fb4d8ef0db09ef6c08b04d8882357689b8bb620d9f8e38e32642cb37d2f",
+      "symbols": {
+        "symbols_absent": 0,
+        "symbols_discovered": 202724,
+        "symbols_documented": 57998,
+        "symbols_represented": 202724
+      },
+      "timestamp": "2026-10-04T00:06:22.206072+00:00"
+    }
+  ],
+  "clean_rebuild_checkpoint": "checkpoints/before-clean-rebuild-20261004T004013Z",
+  "completed": [
+    "Exact Rhino8 SR35 environment and tokenizer pinned",
+    "Authoritative raw sources cached and hash-verified",
+    "All selected public/protected managed/native/scripting/host declarations inventoried",
+    "Current host families inventoried; alpha/beta/historical exclusions evidenced",
+    "Grasshopper exact XML attachment verified and documentation richness reported separately",
+    "Rhino.UI authoritative documentation gap investigated and reported",
+    "Clean authoritative-input extraction and downstream corpus rebuild complete",
+    "Canonical and symbol inventories independently reproduced from disk",
+    "Grounded derived records generated after canonical certification",
+    "Full/minimal exports and exact Qwen token statistics regenerated",
+    "Final automated suite passed; review reports prepared"
+  ],
+  "corpus_build_complete": true,
+  "failure_history": [
+    {
+      "action": "git checkpoint",
+      "reason": "workspace .git path is read-only; git init failed; no available approval route",
+      "status": "resolved"
+    },
+    {
+      "action": "semantic XML attachment",
+      "reason": "Final unmatched-XML audit found whitespace surrounding Grasshopper assembly/name. All target signatures were present, but Grasshopper semantic XML had not joined. Trimmed assembly identity; regression test now requires actual core semantic documentation, not just symbol presence.",
+      "status": "resolved"
+    }
+  ],
+  "failures": [],
+  "next_actions": [
+    "User reviews final corpus/coverage/tokenization and explicit remaining limitations",
+    "Only after separate authorization, design an experimental validation/evaluation recipe; no training authorized"
+  ],
+  "phase": "review_gate",
+  "review_gate_passed": false,
+  "status": "corpus_preparation_complete",
+  "training_started": false,
+  "updated_at": "2026-10-04T00:54:48.379208+00:00",
+  "git_checkpointing": {
+    "status": "available",
+    "history_limitation": "Permission restored after corpus preparation; earlier Git history cannot be recovered."
+  }
+}

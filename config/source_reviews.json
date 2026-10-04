@@ -1,0 +1,107 @@
+{
+  "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/api/RhinoScriptSyntax/index.md": {
+    "reason": "Dynamic reference wrapper with no independent technical body; full installed rhinoscript source/docstrings represented by scripting family",
+    "status": "excluded"
+  },
+  "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/compute/compute-javascript-getting-started/index.md": {
+    "reason": "Reviewed WIP wording describes historical release channels, sample plug-in licensing or article draft status; it does not introduce a Rhino 9-only API. Version-specific source context retained.",
+    "status": "included"
+  },
+  "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/compute/compute-linux-getting-started/index.md": {
+    "reason": "Linux Compute is identified as a Rhino 9 feature by official new-in-v9 guide; outside Rhino 8 target",
+    "status": "excluded"
+  },
+  "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/compute/compute-net-getting-started/index.md": {
+    "reason": "Reviewed WIP wording describes historical release channels, sample plug-in licensing or article draft status; it does not introduce a Rhino 9-only API. Version-specific source context retained.",
+    "status": "included"
+  },
+  "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/compute/compute-python-getting-started/index.md": {
+    "reason": "Reviewed WIP wording describes historical release channels, sample plug-in licensing or article draft status; it does not introduce a Rhino 9-only API. Version-specific source context retained.",
+    "status": "included"
+  },
+  "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/cpp/making-plugins-that-expire/index.md": {
+    "reason": "Reviewed WIP wording describes historical release channels, sample plug-in licensing or article draft status; it does not introduce a Rhino 9-only API. Version-specific source context retained.",
+    "status": "included"
+  },
+  "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/eto/view-and-data/view-models/_index.md": {
+    "reason": "Reviewed WIP wording describes historical release channels, sample plug-in licensing or article draft status; it does not introduce a Rhino 9-only API. Version-specific source context retained.",
+    "status": "included"
+  },
+  "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/general/creating-command-macros/index.md": {
+    "reason": "Reviewed WIP wording describes historical release channels, sample plug-in licensing or article draft status; it does not introduce a Rhino 9-only API. Version-specific source context retained.",
+    "status": "included"
+  },
+  "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/general/developer-docs-style-guide/index.md": {
+    "reason": "Website-authoring implementation, not RhinoSDK development",
+    "status": "excluded"
+  },
+  "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/general/developing-software-in-public/index.md": {
+    "reason": "Reviewed WIP wording describes historical release channels, sample plug-in licensing or article draft status; it does not introduce a Rhino 9-only API. Version-specific source context retained.",
+    "status": "included"
+  },
+  "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/general/how-this-site-works/index.md": {
+    "reason": "Website-authoring implementation, not RhinoSDK development",
+    "status": "excluded"
+  },
+  "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/general/new-in-v9/index.md": {
+    "reason": "Rhino 9 release documentation",
+    "status": "excluded"
+  },
+  "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/rhinocommon/cloudzoo/cloudzoo-product/index.md": {
+    "reason": "Reviewed relatedProducts example uses product version numbers to explain backward-compatible licensing; it introduces no Rhino 9 SDK symbol. Historical Rhino 6 WIP download URL is sample JSON data.",
+    "status": "included"
+  },
+  "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/rhinocommon/debug-rhinowip-mac/index.md": {
+    "reason": "Instructions target WIP application explicitly; standard Rhino 8 debugging guides retained",
+    "status": "excluded"
+  },
+  "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/rhinocommon/moving-to-dotnet-core/index.md": {
+    "reason": "Replaced by pinned Rhino 8-specific revision 6e4aa57; current document mixes .NET 10/Rhino 9 requirements",
+    "status": "excluded"
+  },
+  "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/rhinocommon/plugin-installers-windows/index.md": {
+    "reason": "Reviewed WIP wording describes historical release channels, sample plug-in licensing or article draft status; it does not introduce a Rhino 9-only API. Version-specific source context retained.",
+    "status": "included"
+  },
+  "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/rhinocommon/using-nuget/index.md": {
+    "reason": "Reviewed WIP wording describes historical release channels, sample plug-in licensing or article draft status; it does not introduce a Rhino 9-only API. Version-specific source context retained.",
+    "status": "included"
+  },
+  "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/rhinopython/7/python-troubleshooting-install/index.md": {
+    "reason": "Reviewed WIP wording describes historical release channels, sample plug-in licensing or article draft status; it does not introduce a Rhino 9-only API. Version-specific source context retained.",
+    "status": "included"
+  },
+  "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/yak/what-is-yak/index.md": {
+    "reason": "Reviewed WIP wording describes historical release channels, sample plug-in licensing or article draft status; it does not introduce a Rhino 9-only API. Version-specific source context retained.",
+    "status": "included"
+  },
+  "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/yak/yak-cli-reference/index.md": {
+    "reason": "Reviewed WIP wording describes historical release channels, sample plug-in licensing or article draft status; it does not introduce a Rhino 9-only API. Version-specific source context retained.",
+    "status": "included"
+  },
+  "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:README.md": {
+    "reason": "Reviewed WIP is historical branch/setup context or licensing mode, not a future SDK API",
+    "status": "included"
+  },
+  "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhinocommon/cs/SampleCsRendererIntegration/MockingBird/README.md": {
+    "reason": "Reviewed WIP is historical branch/setup context or licensing mode, not a future SDK API",
+    "status": "included"
+  },
+  "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhinoscript/README.md": {
+    "reason": "Reviewed WIP is historical branch/setup context or licensing mode, not a future SDK API",
+    "status": "included"
+  },
+  "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:zoo/SampleCsZoo/SampleCsZooClass.cs": {
+    "reason": "Reviewed WIP is historical branch/setup context or licensing mode, not a future SDK API",
+    "status": "included"
+  },
+  "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:zoo/SampleVbZoo/SampleVbZooClass.vb": {
+    "reason": "Reviewed WIP is historical branch/setup context or licensing mode, not a future SDK API",
+    "status": "included"
+  },
+  "scripting:py39-rh8/samples/advanced/AnnotateCurveForm.py": {
+    "reason": "Official installed example preserved verbatim with explicit syntax failure; not executed; defect not silently repaired",
+    "status": "included",
+    "validation_exception": "unexpected indentation at line 122 in shipped source"
+  }
+}

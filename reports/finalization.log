@@ -1,0 +1,5 @@
+{"source_entries": 10620, "distinct_blobs": 10098, "failures": [], "brief_matches_root": true, "state_present": true, "worklog_present": true}
+Families 27 license entries 56
+Verified attached XML blocks 58384 Grasshopper {'structural_symbols': 25689, 'xml_attached': 10549, 'semantic_content': 10007, 'empty_xml': 542, 'no_xml_attached': 15140}
+Reports written; review gate explicitly remains unpassed
+Stopped at review gate. No training.

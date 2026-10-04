@@ -1,0 +1,26 @@
+parallel
+parallel-max = 6
+silent
+show-error
+retry = 3
+max-time = 60
+url = "https://developer.rhino3d.com/api/rhinoscript/curve_methods/iscurveconicsection.htm"
+output = "sources/snapshots/rhinoscript/curve_methods/iscurveconicsection.htm"
+url = "https://developer.rhino3d.com/api/rhinoscript/geometry_methods/ispictureframe.htm"
+output = "sources/snapshots/rhinoscript/geometry_methods/ispictureframe.htm"
+url = "https://developer.rhino3d.com/api/rhinoscript/object_methods/isvisibleinview.htm"
+output = "sources/snapshots/rhinoscript/object_methods/isvisibleinview.htm"
+url = "https://developer.rhino3d.com/api/rhinoscript/surface_and_polysurface_methods/fitsurface.htm"
+output = "sources/snapshots/rhinoscript/surface_and_polysurface_methods/fitsurface.htm"
+url = "https://developer.rhino3d.com/api/rhinoscript/surface_and_polysurface_methods/isnurbssurface.htm"
+output = "sources/snapshots/rhinoscript/surface_and_polysurface_methods/isnurbssurface.htm"
+url = "https://developer.rhino3d.com/api/rhinoscript/surface_and_polysurface_methods/isparameteronsurface.htm"
+output = "sources/snapshots/rhinoscript/surface_and_polysurface_methods/isparameteronsurface.htm"
+url = "https://developer.rhino3d.com/api/rhinoscript/surface_and_polysurface_methods/isrevsurface.htm"
+output = "sources/snapshots/rhinoscript/surface_and_polysurface_methods/isrevsurface.htm"
+url = "https://developer.rhino3d.com/api/rhinoscript/surface_and_polysurface_methods/issumsurface.htm"
+output = "sources/snapshots/rhinoscript/surface_and_polysurface_methods/issumsurface.htm"
+url = "https://developer.rhino3d.com/api/rhinoscript/surface_and_polysurface_methods/surfacecount.htm"
+output = "sources/snapshots/rhinoscript/surface_and_polysurface_methods/surfacecount.htm"
+url = "https://developer.rhino3d.com/api/rhinoscript/view_methods/viewtitle.htm"
+output = "sources/snapshots/rhinoscript/view_methods/viewtitle.htm"

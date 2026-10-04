@@ -1,0 +1,16 @@
+{
+  "brief_sha256": "b4f3226945623268e7b98de7482372409523fac4cf77f7d33a98a5b81b584073",
+  "deployment_model": "/Users/timothyb/.lmstudio/models/gcoli/Qwen3.8-27B-oQ6e-mtp",
+  "platform": "macOS-27.0.1-arm64-arm-64bit-Mach-O",
+  "public_visibility": [
+    "public",
+    "protected",
+    "protected internal"
+  ],
+  "rhino_application": "/Applications/Rhino 8.app",
+  "rhino_build": "8.35.26251.13002",
+  "training_allowed": false,
+  "upstream_commit": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+  "upstream_model": "Qwen/Qwen3.8-27B",
+  "upstream_model_status": "publisher card establishes base; tokenizer/config byte-identical to local oQ6e"
+}

@@ -1,0 +1,202 @@
+{
+  "conclusion": "No separate Rhino.UI XML reference located in inspected exact installed distribution or matching official NuGet packages; cached public RhinoCommon web type dataset has no exact Rhino.UI.dll type matches. Official guides/examples provide selected UI usage, not a complete member reference. This is evidence of the inspected sources, not a claim that unpublished or unsearched McNeel material cannot exist.",
+  "control_rhinocommon_type_matches": 1370,
+  "guide_and_example_records": [
+    {
+      "provenance": [
+        "ecosystem:compute@8.x@aeec0a3fa7d5540b08a30f75f987cc1ae5338874:src/hops/SetDefinitionForm.cs"
+      ],
+      "record_id": "canonical:ecosystem:02fae3076bd45a5f0d169c8371ed96f2dd39821a53966e27af55e66ec2328cde"
+    },
+    {
+      "provenance": [
+        "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/eto/view-and-data/complex-bindings/_index.md"
+      ],
+      "record_id": "canonical:source:0c171862c8cb9fe151cf7944b53170b2e283fa04bc59a20f6933246af09d8904"
+    },
+    {
+      "provenance": [
+        "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/rhinocommon/what-is-rhinocommon/index.md"
+      ],
+      "record_id": "canonical:source:0fe54c53d3f0ede407244e042ce85959bf58d5bbd1e6e790902f326a04aacea5"
+    },
+    {
+      "provenance": [
+        "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhinocommon/cs/SampleCsCollapsibleSectionETO_UI/Section.cs"
+      ],
+      "record_id": "canonical:source:101f409c83a90b9344bb01bb84ea3519e27d397c3f17e64a1fb11007284b78bc"
+    },
+    {
+      "provenance": [
+        "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhinocommon/cs/SampleCsCustomRenderSettingsSections/CustomRenderSettingsSectionsPlugIn.cs"
+      ],
+      "record_id": "canonical:source:10920297b0f626a3e0e6eb22503552f775728937ebc6a443a5a61800bfd7c1fb"
+    },
+    {
+      "provenance": [
+        "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/rhinopython/eto-controls-python/index.md"
+      ],
+      "record_id": "canonical:source:19aece7a3d565d9ccc15cfc029dea8db9cd5e9eb687489493bb2b8a4cf9c1507"
+    },
+    {
+      "provenance": [
+        "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhinocommon/cs/SampleCsCustomRenderSettingsSections/CustomSection.cs"
+      ],
+      "record_id": "canonical:source:1a31e6715d8ad1e91518db974d1ae6bdd3cfd8cea3f95d41a22eb93f624ac2b3"
+    },
+    {
+      "provenance": [
+        "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhinopython/SampleEtoViewports.py"
+      ],
+      "record_id": "canonical:source:1c137f78990132fc5eb4b9c187189703fc23526ce2ebadfaa5ef74cfd022ec8d"
+    },
+    {
+      "provenance": [
+        "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhinocommon/cs/SampleCsViewportPropertiesETOUI/Section.cs"
+      ],
+      "record_id": "canonical:source:22c26ef3cf3ab75988ce699755f9e14668660dd2ed42c007ca26d75fff5114b4"
+    },
+    {
+      "provenance": [
+        "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhinocommon/cs/SampleCsRenderContentMenu/CommandPluginPlugIn.cs"
+      ],
+      "record_id": "canonical:source:2b1e1fa9c891c92c11b06ecd3f16be95470ae1642f49ca3abfada2b808e510be"
+    },
+    {
+      "provenance": [
+        "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhinocommon/cs/SampleCsCustomRenderSettingsSections/CustomRenderSection1.cs"
+      ],
+      "record_id": "canonical:source:2bdc93626d12853afd439d5aec8acbc3a399e70bde03589330f2a7bff1a65d99"
+    },
+    {
+      "provenance": [
+        "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhinocommon/cs/SampleCsCollapsibleSectionETO_UI/CollapsibleSectionUIPanel.cs"
+      ],
+      "record_id": "canonical:source:4422eb844a22670dcd0d59730f34f884c6767b46926282e0784e4bea5a4b5c82"
+    },
+    {
+      "provenance": [
+        "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhinocommon/cs/SampleCsEto/Commands/SampleCsEtoViewportCommand.cs"
+      ],
+      "record_id": "canonical:source:485bb436b951b5ced869f94b4e9fcecf82244ecc3b1ca542f21e300c42127e95"
+    },
+    {
+      "provenance": [
+        "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/rhinocommon/using-nuget/index.md"
+      ],
+      "record_id": "canonical:source:4b7e585d888115fc21615ad882a529538149f2cea2657fb174e9a560352c77ca"
+    },
+    {
+      "provenance": [
+        "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhinopython/SampleEtoPushPickButtonDialog.py"
+      ],
+      "record_id": "canonical:source:4cabbe8fa82f610125ce22141b36a67d205deaeffaf2ea8acf7f4d2cb0871a4e"
+    },
+    {
+      "provenance": [
+        "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhinocommon/cs/SampleCsRdk/CustomMaterial.cs"
+      ],
+      "record_id": "canonical:source:4e2ea895d7ac443154ca43b1cc454dc76760137fb35e44a5c4530a63a251c10e"
+    },
+    {
+      "provenance": [
+        "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhinocommon/cs/SampleCsCustomSunSections/CustomSunSectionsPlugIn.cs"
+      ],
+      "record_id": "canonical:source:4f477f27e2fd45b376990c56d76b9c672263dbdd9b1277e90213e70d1945fd27"
+    },
+    {
+      "provenance": [
+        "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/eto/rhino-specific/controls/_index.md"
+      ],
+      "record_id": "canonical:source:74341c34eb48f8130ba197cb090eb684e73cb1f16a2da7d114d1969e408617ea"
+    },
+    {
+      "provenance": [
+        "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhinocommon/cs/SampleCsCustomSunSections/CustomSection.cs"
+      ],
+      "record_id": "canonical:source:753bf584daf7b6ea291a3b60a3b0b5d4eac3c4f6e44f659f289cc19286d51001"
+    },
+    {
+      "provenance": [
+        "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhinopython/SampleEtoViewCaptureDialog.py"
+      ],
+      "record_id": "canonical:source:7a3f7378420519bf1f6fb5d350559124996ab07a20f48d47a0bd407182e5c893"
+    },
+    {
+      "provenance": [
+        "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhinocommon/cs/SampleCsViewportPropertiesETOUI/CollapsibleSectionUIPanel.cs"
+      ],
+      "record_id": "canonical:source:7fbf1106616a27b95b7e69a5a760b376f8cc6b5fb0008121121d184d75cf5907"
+    },
+    {
+      "provenance": [
+        "mcneel/developer.rhino3d.com@548b769596103d0408b16f61c2b10a9078a618a8:content/en/guides/rhinocommon/loading-tool-palettes-mac/index.md"
+      ],
+      "record_id": "canonical:source:863cb91b31e50806a1ebfb67bd243b64b212d3162899bcbe7f53e0b2a12ff784"
+    },
+    {
+      "provenance": [
+        "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhinocommon/cs/SampleCsRdk/CustomMaterialUserInterfaceSection.cs"
+      ],
+      "record_id": "canonical:source:901f062bec7a343b49b9ed23d476799b553b38007669c65660977caf229db723"
+    },
+    {
+      "provenance": [
+        "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhinocommon/cs/SampleCsRdk/CustomMaterialViewModel.cs"
+      ],
+      "record_id": "canonical:source:96d76f0f0bb240bd27d525d9ad4e9d28792f9a740e1d01125163d328579baa4d"
+    },
+    {
+      "provenance": [
+        "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhino.inside/dotnet/SampleEtoApp/MainForm.cs"
+      ],
+      "record_id": "canonical:source:d3aba3b1d073358716fcfb0178d8265be7101521e8f02f52c338b6ca98e2e64e"
+    },
+    {
+      "provenance": [
+        "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhinocommon/cs/SampleCsRdk/CustomEtoUiSectionMaterial.cs"
+      ],
+      "record_id": "canonical:source:e58de2f91b435aac4e157a2b3e89ef1899c5925479a579c183813d5cce5f9d8a"
+    },
+    {
+      "provenance": [
+        "mcneel/rhino-developer-samples@8462fc3487f8b7a58595ef73f6a5c09f92717f60:rhinocommon/cs/SampleCsCustomRenderSettingsSections/CustomRenderSettingsViewModel.cs"
+      ],
+      "record_id": "canonical:source:f3bc1c5ebe127bb22e984270d7f476c197473616b39665ec3250228d2aea3e50"
+    }
+  ],
+  "installed_ui_sources": [
+    "/Applications/Rhino 8.app/Contents/Frameworks/RhCore.framework/Versions/A/Resources/Rhino.UI.dll",
+    "/Applications/Rhino 8.app/Contents/Frameworks/RhCore.framework/Versions/A/Resources/ref/net48/Rhino.UI.dll"
+  ],
+  "official_package_contents": {
+    "rhinocommon.8.35.26251.13001.nupkg": [
+      "lib/net48/RhinoCommon.dll",
+      "lib/net48/RhinoCommon.xml",
+      "lib/net48/Rhino.UI.dll",
+      "lib/net48/Eto.dll",
+      "lib/net48/Eto.xml",
+      "lib/net48/Ed.Eto.dll",
+      "lib/net48/Ed.Eto.xml",
+      "lib/net7.0/RhinoCommon.dll",
+      "lib/net7.0/RhinoCommon.xml",
+      "lib/net7.0/Rhino.UI.dll",
+      "lib/net7.0/Eto.dll",
+      "lib/net7.0/Eto.xml",
+      "lib/net7.0/Ed.Eto.dll",
+      "lib/net7.0/Ed.Eto.xml",
+      "[Content_Types].xml"
+    ],
+    "rhinowindows.8.35.26251.13001.nupkg": [
+      "lib/net48/RhinoWindows.dll",
+      "lib/net48/Eto.Wpf.dll",
+      "lib/net7.0-windows/RhinoWindows.dll",
+      "lib/net7.0-windows/Eto.Wpf.dll",
+      "[Content_Types].xml"
+    ]
+  },
+  "rhino_ui_exact_type_matches_in_web_dataset": [],
+  "rhino_ui_types_in_target": 188,
+  "target": "8.35.26251.13002",
+  "website_api_entry_count": 1612
+}

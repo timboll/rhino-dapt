@@ -1,0 +1,53 @@
+
+7-Zip (z) 26.03 (arm64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-09-03
+ 64-bit arm_v:8.5-A locale=C.UTF-8 Threads:10 OPEN_MAX:1048575, ASM
+
+Scanning the drive for archives:
+1 file, 13549568 bytes (13 MiB)
+
+Extracting archive: /Users/timothyb/rhino-dapt/sources/snapshots/rh835sdk_8.35.26251.13001.msi
+--
+Path = /Users/timothyb/rhino-dapt/sources/snapshots/rh835sdk_8.35.26251.13001.msi
+Type = Compound
+Physical Size = 13549568
+Extension = msi
+Cluster Size = 4096
+----
+Path = media1.cab
+Size = 5962203
+Packed Size = 5963776
+--
+Path = media1.cab
+Type = Cab
+Physical Size = 5962203
+Method = MSZip
+Blocks = 3
+Volumes = 1
+Volume Index = 0
+ID = 0
+
+Everything is Ok
+
+Files: 595
+Size:       36889543
+Compressed: 13549568
+
+7-Zip (z) 26.03 (arm64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-09-03
+ 64-bit arm_v:8.5-A locale=C.UTF-8 Threads:10 OPEN_MAX:1048575, ASM
+
+Scanning the drive for archives:
+1 file, 13549568 bytes (13 MiB)
+
+Extracting archive: /Users/timothyb/rhino-dapt/sources/snapshots/rh835sdk_8.35.26251.13001.msi
+--
+Path = /Users/timothyb/rhino-dapt/sources/snapshots/rh835sdk_8.35.26251.13001.msi
+Type = Compound
+Physical Size = 13549568
+Extension = msi
+Cluster Size = 4096
+
+Everything is Ok
+
+Files: 6
+Size:       136859
+Compressed: 13549568

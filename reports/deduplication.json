@@ -1,0 +1,11 @@
+{
+  "characters_removed": 0,
+  "exact_records_removed": 0,
+  "exact_tokens_removed": 0,
+  "near_algorithm": "SHA256 of casefolded whitespace-collapsed full document; intentionally conservative, not a semantic similarity score",
+  "near_duplicate_groups": 141,
+  "near_records_removed": 0,
+  "records_after": 149084,
+  "records_before": 149084,
+  "source_file_exact_duplicates": 522
+}

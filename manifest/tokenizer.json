@@ -1,0 +1,30 @@
+{
+  "add_special_tokens": false,
+  "chat_template_applied": false,
+  "compatibility": [
+    {
+      "byte_identical": true,
+      "cache_path": "sources/raw/0997f410c57a1f4e53b09e4be8f4a172d90edd9564368fb0847030937229b9f3",
+      "local_path": "/Users/timothyb/.lmstudio/models/gcoli/Qwen3.8-27B-oQ6e-mtp/tokenizer.json",
+      "name": "tokenizer.json",
+      "sha256": "0997f410c57a1f4e53b09e4be8f4a172d90edd9564368fb0847030937229b9f3",
+      "upstream_path": "sources/snapshots/upstream-tokenizer.json"
+    },
+    {
+      "byte_identical": true,
+      "cache_path": "sources/raw/b11349aafa7cdc6a320767cf7ceb29ed82f7eda5d65e8e0819e76f0ce947bf27",
+      "local_path": "/Users/timothyb/.lmstudio/models/gcoli/Qwen3.8-27B-oQ6e-mtp/tokenizer_config.json",
+      "name": "tokenizer_config.json",
+      "sha256": "b11349aafa7cdc6a320767cf7ceb29ed82f7eda5d65e8e0819e76f0ce947bf27",
+      "upstream_path": "sources/snapshots/upstream-tokenizer_config.json"
+    }
+  ],
+  "count_definition": "raw text tokens, no per-record BOS/EOS; eventual trainer separators are separate",
+  "deployment_model": "/Users/timothyb/.lmstudio/models/gcoli/Qwen3.8-27B-oQ6e-mtp",
+  "padding": false,
+  "sequence_packing": false,
+  "tokenizers_version": "0.23.2",
+  "truncation": false,
+  "upstream_commit": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+  "upstream_model": "Qwen/Qwen3.8-27B"
+}

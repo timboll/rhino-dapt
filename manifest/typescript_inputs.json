@@ -1,0 +1,32 @@
+[
+  {
+    "api_family": "compute_javascript",
+    "archive_id": "ecosystem:compute_javascript@0.12.1",
+    "archive_path": "compute.rhino3d.js",
+    "cache_path": "sources/raw/e0ac45c8d4326b1d3f85418b8f7b1c8834ddac74e9dc58eff8e52e0e7a21caa5",
+    "id": "ecosystem:compute_javascript@0.12.1:compute.rhino3d.js",
+    "owner": "Robert McNeel & Associates (per-file notices retained)",
+    "redistribution_reviewed": false,
+    "retrieved_at": "2026-10-03T23:53:39.529058+00:00",
+    "sha256": "e0ac45c8d4326b1d3f85418b8f7b1c8834ddac74e9dc58eff8e52e0e7a21caa5",
+    "size": 200753,
+    "source_location": "https://registry.npmjs.org/compute-rhino3d/-/compute-rhino3d-0.12.1.tgz#compute.rhino3d.js",
+    "source_type": "ecosystem_file",
+    "version": "0.12.1"
+  },
+  {
+    "api_family": "rhino3dm",
+    "archive_id": "ecosystem:rhino3dm@8.35.0",
+    "archive_path": "src/js/rhino3dm.d.ts",
+    "cache_path": "sources/raw/746763c015bd37840f4dd79c15a4d713834e086a84c8c2371c9024ad0cfff447",
+    "id": "ecosystem:rhino3dm@8.35.0:src/js/rhino3dm.d.ts",
+    "owner": "Robert McNeel & Associates (per-file notices retained)",
+    "redistribution_reviewed": false,
+    "retrieved_at": "2026-10-03T23:53:39.451533+00:00",
+    "sha256": "746763c015bd37840f4dd79c15a4d713834e086a84c8c2371c9024ad0cfff447",
+    "size": 261425,
+    "source_location": "https://github.com/mcneel/rhino3dm/archive/f44a7887955d471ad3e52327a5a410a96aad7957.tar.gz#src/js/rhino3dm.d.ts",
+    "source_type": "ecosystem_file",
+    "version": "8.35.0"
+  }
+]

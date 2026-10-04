@@ -1,0 +1,8 @@
+{
+  "blocks": 660,
+  "both_grammars_failed": 42,
+  "execution": "none",
+  "interpretation": "Failures include partial snippets and actual source defects, not automatically bad target API usage; exact record/block locations retained.",
+  "python2_passed": 599,
+  "python3_passed": 588
+}

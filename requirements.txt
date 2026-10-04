@@ -1,0 +1,2 @@
+# Tokenization runtime; other Python scripts use standard library (Python >=3.11).
+tokenizers==0.23.2

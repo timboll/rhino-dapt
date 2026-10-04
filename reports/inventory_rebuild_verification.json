@@ -1,0 +1,23 @@
+{
+  "checkpoint": "checkpoints/before-clean-rebuild-20261004T004013Z",
+  "exit_code": 0,
+  "input_source_manifest_sha256": "3a8dbfa606fc7f0b55fdd462432543b3b8d877068a21430be0c60dd2106874ee",
+  "inventory_byte_identical": true,
+  "method": "Generated corpus/normalized/report/manifests and extracted trees moved aside; offline rebuild from raw cache, locked acquisition/discovery manifests and scripts; no conversation context",
+  "previous_inventory_hashes": {
+    "manifest/cpp_symbols.jsonl": "8e498a8958f759f649bdeacfef095e4dea44e1b101e3ae1da709307f92f75ce0",
+    "manifest/ecosystem_symbols.jsonl": "13d01717f6659f673f474cfd6d7515a324aaca26e703374ce3dfb43d4979666a",
+    "manifest/excluded_host_symbols.jsonl": "4a27f28878cfc34c9cddb7898bd45df6ccff7bc32622d928a958e9b5a59a3422",
+    "manifest/inside_symbols.jsonl": "1200fcac6275de168237eec23b6ecf0a0f6cdd66256b7852e23502573bc6f166",
+    "manifest/python_symbols.jsonl": "cef763af85e370b7ec1b3fda498a5b95f1fe9fe4f0dcc5969bc78951b917b32d",
+    "manifest/symbols.jsonl": "4e6e72ba9e7229e4410b0b484fe84cc03a8d2f2c64b3919ae883d0950c3109ec"
+  },
+  "rebuilt_inventory_hashes": {
+    "manifest/cpp_symbols.jsonl": "8e498a8958f759f649bdeacfef095e4dea44e1b101e3ae1da709307f92f75ce0",
+    "manifest/ecosystem_symbols.jsonl": "13d01717f6659f673f474cfd6d7515a324aaca26e703374ce3dfb43d4979666a",
+    "manifest/excluded_host_symbols.jsonl": "4a27f28878cfc34c9cddb7898bd45df6ccff7bc32622d928a958e9b5a59a3422",
+    "manifest/inside_symbols.jsonl": "1200fcac6275de168237eec23b6ecf0a0f6cdd66256b7852e23502573bc6f166",
+    "manifest/python_symbols.jsonl": "cef763af85e370b7ec1b3fda498a5b95f1fe9fe4f0dcc5969bc78951b917b32d",
+    "manifest/symbols.jsonl": "4e6e72ba9e7229e4410b0b484fe84cc03a8d2f2c64b3919ae883d0950c3109ec"
+  }
+}

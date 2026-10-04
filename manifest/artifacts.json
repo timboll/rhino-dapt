@@ -1,0 +1,18 @@
+{
+  "corpus/canonical.records.jsonl": {
+    "bytes": 389184245,
+    "sha256": "509f8249721c2fda66432f6e0b8cf5c95219a2f786292decd604e9785fc85d8f"
+  },
+  "corpus/derived.records.jsonl": {
+    "bytes": 1338245,
+    "sha256": "8cf6c76a9416fec495c5d0b807bb56a45c4509fe7842dd5680b9f60868bf1366"
+  },
+  "corpus/full.records.jsonl": {
+    "bytes": 390522490,
+    "sha256": "97b2ddd26643936615d87a63fc6fc33cf41547bb8998c8e4e51444c8525eb382"
+  },
+  "corpus/training_text.jsonl": {
+    "bytes": 210907232,
+    "sha256": "b5620e8af4c76372c3841643fd42f42d8ec6741a595936a2d68258f8e7747dac"
+  }
+}

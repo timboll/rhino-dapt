@@ -1,0 +1,6 @@
+corpus/*.jsonl filter=lfs diff=lfs merge=lfs -text
+manifest/symbols.jsonl filter=lfs diff=lfs merge=lfs -text
+manifest/cpp_symbols.jsonl filter=lfs diff=lfs merge=lfs -text
+manifest/nonpublic_symbols.jsonl filter=lfs diff=lfs merge=lfs -text
+manifest/coverage_exceptions.jsonl filter=lfs diff=lfs merge=lfs -text
+manifest/inside_csharp_profiles.jsonl filter=lfs diff=lfs merge=lfs -text

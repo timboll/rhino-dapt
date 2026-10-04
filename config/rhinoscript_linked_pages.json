@@ -1,0 +1,12 @@
+[
+  "curve_methods/iscurveconicsection.htm",
+  "geometry_methods/ispictureframe.htm",
+  "object_methods/isvisibleinview.htm",
+  "surface_and_polysurface_methods/fitsurface.htm",
+  "surface_and_polysurface_methods/isnurbssurface.htm",
+  "surface_and_polysurface_methods/isparameteronsurface.htm",
+  "surface_and_polysurface_methods/isrevsurface.htm",
+  "surface_and_polysurface_methods/issumsurface.htm",
+  "surface_and_polysurface_methods/surfacecount.htm",
+  "view_methods/viewtitle.htm"
+]

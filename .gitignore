@@ -1,0 +1,31 @@
+# Raw/retrievable source material
+sources/raw/
+sources/snapshots/
+sources/extracted/
+sources/assembly_resolution/
+
+# Rebuildable normalized/intermediate data
+normalized/
+
+# Rebuildable disk checkpoints
+checkpoints/
+
+# Raw/generated manifest intermediates
+manifest/symbols.raw.jsonl
+manifest/nonpublic_symbols.raw.jsonl
+
+# Downloaded/generated tooling
+tools/
+
+# .NET build/runtime artifacts
+.dotnet-home/
+**/bin/
+**/obj/
+
+# Python artifacts
+**/__pycache__/
+*.py[cod]
+
+# Logs
+*_console.log
+.DS_Store

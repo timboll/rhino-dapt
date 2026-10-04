@@ -1,0 +1,2 @@
+{"reason": "ambiguous assembly identity; no derived relationship emitted", "referenced_type": "Rhino.Geometry.Polyline", "symbol_id": "Grasshopper|T:Grasshopper.Kernel.Geometry.Voronoi.Cell3Facet"}
+{"reason": "ambiguous assembly identity; no derived relationship emitted", "referenced_type": "Rhino.Runtime.IPlatformServiceLocator", "symbol_id": "Rhino.UI|T:Rhino.UI.Runtime.RhinoUiServiceLocator"}

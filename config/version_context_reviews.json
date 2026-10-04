@@ -1,0 +1,27 @@
+{
+  "canonical:cpp_header:318fb9b32ecec100835f8b69e1deaae038ca6ed0a69ed55b277d7c81a2793c72": {
+    "reason": "Exact Rhino8 SR35 native release header contains maintenance instructions for future major-version changes; declarations are from the pinned Rhino8 header.",
+    "status": "included",
+    "text_sha256": "81fdf578d75c7b674ab6165f5e6dc0ded29841b607f8056963244b1bb1af5cd2"
+  },
+  "canonical:ecosystem:036aa4b41f50ae3b214b05f988434267f8b63ae13bf0d782545a7112408a4487": {
+    "reason": "Pinned Compute8 implementation comment credits a painting pattern from an internally named rhino9 repository; it adds no Rhino9 dependency or target API.",
+    "status": "included",
+    "text_sha256": "e711ecb1ef2476ab8d38c5c8b53057a2f2d6b8341ee386ac5da8ab48064d11a2"
+  },
+  "canonical:host:f16603fcbde9d362de1ccdadb339d7e8c9175a68f0cfc21c06a7e54e45041d1e": {
+    "reason": "Only hit is numbered illustration filename rir-rhino9.png, the ninth Rhino screenshot; not a product-version claim.",
+    "status": "included",
+    "text_sha256": "cc24f95911ee601ce557f3d852d90ed2ac54f55b7a81c222328dc42872a8a287"
+  },
+  "canonical:source:4696fce7590e28675be7ef4ce7f7a41186ea8014a31b3976c43583be663b5ae9": {
+    "reason": "Exact openNURBS8 source contains a future-fix/workaround comment; preserved implementation is pinned Rhino8 source, not an added future API.",
+    "status": "included",
+    "text_sha256": "8a966d2b40b0c5f941f7856519705fea5210fc9c6db9dec1af2d1117a1318e78"
+  },
+  "canonical:source:f10bcde7a1c914d4107ed4bba9fcf7b206388f14789c0d08430ab2d1b9da2c61": {
+    "reason": "Reviewed relatedProducts example uses product version numbers to explain backward-compatible licensing; it introduces no Rhino 9 SDK symbol. Historical Rhino 6 WIP download URL is sample JSON data.",
+    "status": "included",
+    "text_sha256": "7854c76fa8b0e5b3426961314229da971d700ea1fce35c94d0db14ac2d56df53"
+  }
+}

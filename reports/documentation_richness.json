@@ -1,0 +1,344 @@
+{
+  "BlockEdit": {
+    "no_xml_attached": 109,
+    "structural_symbols": 109
+  },
+  "CloudZooClient": {
+    "no_xml_attached": 327,
+    "structural_symbols": 327
+  },
+  "Commands": {
+    "no_xml_attached": 3676,
+    "structural_symbols": 3676
+  },
+  "CurveComponents": {
+    "no_xml_attached": 2546,
+    "structural_symbols": 2546
+  },
+  "Ed.Common": {
+    "no_xml_attached": 108,
+    "structural_symbols": 108
+  },
+  "Ed.Core": {
+    "no_xml_attached": 43,
+    "structural_symbols": 43
+  },
+  "Ed.Eto": {
+    "empty_xml": 4,
+    "inheritance_reference_only": 128,
+    "no_xml_attached": 3,
+    "semantic_content": 225,
+    "structural_symbols": 360,
+    "xml_attached": 357
+  },
+  "Ed.Eto.macOS": {
+    "no_xml_attached": 37,
+    "structural_symbols": 37
+  },
+  "Eto": {
+    "empty_xml": 1,
+    "inheritance_reference_only": 249,
+    "no_xml_attached": 252,
+    "semantic_content": 10127,
+    "structural_symbols": 10629,
+    "xml_attached": 10377
+  },
+  "Eto.CodeEditor": {
+    "no_xml_attached": 310,
+    "structural_symbols": 310
+  },
+  "Eto.CodeEditor.macOS": {
+    "no_xml_attached": 235,
+    "structural_symbols": 235
+  },
+  "Eto.Serialization.Xaml": {
+    "no_xml_attached": 125,
+    "structural_symbols": 125
+  },
+  "Eto.Wpf": {
+    "no_xml_attached": 4208,
+    "structural_symbols": 4208
+  },
+  "Eto.macOS": {
+    "no_xml_attached": 4644,
+    "structural_symbols": 4644
+  },
+  "Export_AMF": {
+    "no_xml_attached": 28,
+    "structural_symbols": 28
+  },
+  "Export_DAE": {
+    "no_xml_attached": 10,
+    "structural_symbols": 10
+  },
+  "Export_SVG": {
+    "no_xml_attached": 4,
+    "structural_symbols": 4
+  },
+  "Export_glTF": {
+    "no_xml_attached": 130,
+    "structural_symbols": 130
+  },
+  "GH_IO": {
+    "no_xml_attached": 5,
+    "semantic_content": 848,
+    "structural_symbols": 853,
+    "xml_attached": 848
+  },
+  "GH_Util": {
+    "no_xml_attached": 173,
+    "structural_symbols": 173
+  },
+  "Galapagos": {
+    "no_xml_attached": 45,
+    "semantic_content": 596,
+    "structural_symbols": 641,
+    "xml_attached": 596
+  },
+  "GhPython": {
+    "no_xml_attached": 755,
+    "structural_symbols": 755
+  },
+  "Grasshopper": {
+    "empty_xml": 542,
+    "no_xml_attached": 15140,
+    "semantic_content": 10007,
+    "structural_symbols": 25689,
+    "xml_attached": 10549
+  },
+  "GrasshopperPlugin": {
+    "no_xml_attached": 113,
+    "structural_symbols": 113
+  },
+  "IOComponents": {
+    "no_xml_attached": 2372,
+    "structural_symbols": 2372
+  },
+  "Import_AMF": {
+    "no_xml_attached": 43,
+    "structural_symbols": 43
+  },
+  "Import_SVG": {
+    "no_xml_attached": 43,
+    "structural_symbols": 43
+  },
+  "Import_glTF": {
+    "no_xml_attached": 6,
+    "structural_symbols": 6
+  },
+  "KangarooSolver": {
+    "empty_xml": 76,
+    "no_xml_attached": 625,
+    "semantic_content": 185,
+    "structural_symbols": 886,
+    "xml_attached": 261
+  },
+  "MathComponents": {
+    "no_xml_attached": 3948,
+    "structural_symbols": 3948
+  },
+  "McNeel.Python39.Runtime": {
+    "no_xml_attached": 857,
+    "structural_symbols": 857
+  },
+  "MeshCommands": {
+    "no_xml_attached": 229,
+    "structural_symbols": 229
+  },
+  "NodeInCode": {
+    "no_xml_attached": 3,
+    "structural_symbols": 3
+  },
+  "PTComponentLibrary": {
+    "no_xml_attached": 672,
+    "structural_symbols": 672
+  },
+  "PanelingToolsDotNet": {
+    "no_xml_attached": 6,
+    "semantic_content": 75,
+    "structural_symbols": 81,
+    "xml_attached": 75
+  },
+  "Proxy": {
+    "no_xml_attached": 636,
+    "structural_symbols": 636
+  },
+  "QuadRemesh": {
+    "no_xml_attached": 238,
+    "structural_symbols": 238
+  },
+  "RDK_EtoUI": {
+    "no_xml_attached": 1871,
+    "structural_symbols": 1871
+  },
+  "Rhino.Runtime.Code": {
+    "no_xml_attached": 8387,
+    "structural_symbols": 8387
+  },
+  "Rhino.Runtime.Code.Languages.IronPython2": {
+    "no_xml_attached": 221,
+    "structural_symbols": 221
+  },
+  "Rhino.Runtime.Code.Languages.PythonNet": {
+    "no_xml_attached": 522,
+    "structural_symbols": 522
+  },
+  "Rhino.Runtime.Code.Languages.Roslyn": {
+    "no_xml_attached": 337,
+    "structural_symbols": 337
+  },
+  "Rhino.Runtime.Code.Remote": {
+    "no_xml_attached": 188,
+    "structural_symbols": 188
+  },
+  "Rhino.Runtime.Code.Serialization": {
+    "no_xml_attached": 5,
+    "structural_symbols": 5
+  },
+  "Rhino.UI": {
+    "no_xml_attached": 13820,
+    "structural_symbols": 13820
+  },
+  "Rhino3dm": {
+    "empty_xml": 179,
+    "inheritance_reference_only": 14,
+    "no_xml_attached": 547,
+    "reference_or_availability_only": 1096,
+    "semantic_content": 8526,
+    "structural_symbols": 10362,
+    "xml_attached": 9815
+  },
+  "RhinoCodeEditor": {
+    "no_xml_attached": 791,
+    "structural_symbols": 791
+  },
+  "RhinoCodePlatform.GH": {
+    "no_xml_attached": 321,
+    "structural_symbols": 321
+  },
+  "RhinoCodePlatform.GH.Context": {
+    "no_xml_attached": 201,
+    "structural_symbols": 201
+  },
+  "RhinoCodePlatform.GH1": {
+    "no_xml_attached": 460,
+    "structural_symbols": 460
+  },
+  "RhinoCodePlatform.Projects": {
+    "no_xml_attached": 344,
+    "structural_symbols": 344
+  },
+  "RhinoCodePlatform.Rhino3D": {
+    "no_xml_attached": 1172,
+    "structural_symbols": 1172
+  },
+  "RhinoCodePlatform.Themes": {
+    "no_xml_attached": 93,
+    "structural_symbols": 93
+  },
+  "RhinoCodePlugin": {
+    "no_xml_attached": 37,
+    "structural_symbols": 37
+  },
+  "RhinoCodePluginGH": {
+    "no_xml_attached": 474,
+    "structural_symbols": 474
+  },
+  "RhinoCommon": {
+    "empty_xml": 245,
+    "inheritance_reference_only": 16,
+    "no_xml_attached": 2079,
+    "reference_or_availability_only": 4820,
+    "semantic_content": 20425,
+    "structural_symbols": 27585,
+    "xml_attached": 25506
+  },
+  "RhinoCycles": {
+    "no_xml_attached": 264,
+    "structural_symbols": 264
+  },
+  "RhinoCyclesCore": {
+    "no_xml_attached": 4062,
+    "structural_symbols": 4062
+  },
+  "RhinoDLR_Python": {
+    "no_xml_attached": 166,
+    "structural_symbols": 166
+  },
+  "RhinoMac": {
+    "no_xml_attached": 116,
+    "structural_symbols": 116
+  },
+  "RhinoMacBindings": {
+    "no_xml_attached": 10,
+    "structural_symbols": 10
+  },
+  "RhinoPythonHost": {
+    "no_xml_attached": 96,
+    "structural_symbols": 96
+  },
+  "RhinoRenderCycles": {
+    "no_xml_attached": 16,
+    "structural_symbols": 16
+  },
+  "RhinoWindows": {
+    "no_xml_attached": 1323,
+    "structural_symbols": 1323
+  },
+  "ScriptComponents": {
+    "no_xml_attached": 511,
+    "structural_symbols": 511
+  },
+  "ShrinkWrap": {
+    "no_xml_attached": 18,
+    "structural_symbols": 18
+  },
+  "SurfaceComponents": {
+    "no_xml_attached": 2412,
+    "structural_symbols": 2412
+  },
+  "TriangulationComponents": {
+    "no_xml_attached": 345,
+    "structural_symbols": 345
+  },
+  "VectorComponents": {
+    "no_xml_attached": 1289,
+    "structural_symbols": 1289
+  },
+  "XformComponents": {
+    "no_xml_attached": 1268,
+    "structural_symbols": 1268
+  },
+  "Yak.Core": {
+    "no_xml_attached": 505,
+    "structural_symbols": 505
+  },
+  "ZooClient": {
+    "no_xml_attached": 96,
+    "structural_symbols": 96
+  },
+  "csycles": {
+    "no_xml_attached": 4255,
+    "structural_symbols": 4255
+  },
+  "export_IGES": {
+    "no_xml_attached": 213,
+    "structural_symbols": 213
+  },
+  "export_PDF": {
+    "no_xml_attached": 5,
+    "structural_symbols": 5
+  },
+  "export_PLY": {
+    "no_xml_attached": 9,
+    "structural_symbols": 9
+  },
+  "export_xaml": {
+    "no_xml_attached": 30,
+    "structural_symbols": 30
+  },
+  "yak": {
+    "no_xml_attached": 45,
+    "structural_symbols": 45
+  }
+}

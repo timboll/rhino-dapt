@@ -1,0 +1,34 @@
+test_actual_xml_text_attached (test_corpus.CorpusTests.test_actual_xml_text_attached) ... ok
+test_additional_api_families (test_corpus.CorpusTests.test_additional_api_families) ... ok
+test_all_jsonl_valid (test_corpus.CorpusTests.test_all_jsonl_valid) ... ok
+test_all_semantic_segments_reassemble (test_corpus.CorpusTests.test_all_semantic_segments_reassemble) ... ok
+test_complete_discovered_symbol_representation (test_corpus.CorpusTests.test_complete_discovered_symbol_representation) ... ok
+test_compute_clients_compile (test_corpus.CorpusTests.test_compute_clients_compile) ... ok
+test_core_semantic_documentation_attached (test_corpus.CorpusTests.test_core_semantic_documentation_attached) ... ok
+test_csharp_semantic_member_boundaries (test_corpus.CorpusTests.test_csharp_semantic_member_boundaries) ... ok
+test_derived_grounding (test_corpus.CorpusTests.test_derived_grounding) ... ok
+test_ecosystem_presentation_noise_excluded (test_corpus.CorpusTests.test_ecosystem_presentation_noise_excluded) ... ok
+test_entire_public_header_retained (test_corpus.CorpusTests.test_entire_public_header_retained) ... ok
+test_host_and_windows_inventory (test_corpus.CorpusTests.test_host_and_windows_inventory) ... /Users/timothyb/rhino-dapt/tests/test_corpus.py:150: ResourceWarning: unclosed file <_io.TextIOWrapper name='/Users/timothyb/rhino-dapt/manifest/inside_csharp_profiles.jsonl' mode='r' encoding='UTF-8'>
+  self.assertTrue(all('RHINO_9' not in p['defines'] for p in (json.loads(l) for l in (ROOT/'manifest/inside_csharp_profiles.jsonl').open())))
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_host_schema_profiles_match_project (test_corpus.CorpusTests.test_host_schema_profiles_match_project) ... ok
+test_native_platform_reconciliation (test_corpus.CorpusTests.test_native_platform_reconciliation) ... ok
+test_no_empty_text_or_duplicate_ids (test_corpus.CorpusTests.test_no_empty_text_or_duplicate_ids) ... ok
+test_no_known_future_sources (test_corpus.CorpusTests.test_no_known_future_sources) ... ok
+test_no_unexplained_exact_duplicates (test_corpus.CorpusTests.test_no_unexplained_exact_duplicates) ... ok
+test_provenance_and_symbols (test_corpus.CorpusTests.test_provenance_and_symbols) ... ok
+test_semantic_xml_sections (test_corpus.CorpusTests.test_semantic_xml_sections) ... ok
+test_sentinels (test_corpus.CorpusTests.test_sentinels) ... ok
+test_signatures_not_dropped (test_corpus.CorpusTests.test_signatures_not_dropped) ... ok
+test_stable_api_record_ids (test_corpus.CorpusTests.test_stable_api_record_ids) ... ok
+test_stable_managed_ids (test_corpus.CorpusTests.test_stable_managed_ids) ... ok
+test_tokenizer_coverage (test_corpus.CorpusTests.test_tokenizer_coverage) ... ok
+test_training_export (test_corpus.CorpusTests.test_training_export) ... ok
+test_version_filters (test_corpus.CorpusTests.test_version_filters) ... ok
+
+----------------------------------------------------------------------
+Ran 26 tests in 30.919s
+
+OK

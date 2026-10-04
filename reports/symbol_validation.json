@@ -1,0 +1,12 @@
+{
+  "dotted_text_candidates_requiring_binding": 1486,
+  "invalid_record_symbols_or_provenance": 0,
+  "inventory_symbols": 244003,
+  "python_syntax": {
+    "failed_or_python2": 133,
+    "passed": 521
+  },
+  "unreviewed_version_contexts": 0,
+  "version_context_findings": 5,
+  "xml_reference_exceptions": 797
+}

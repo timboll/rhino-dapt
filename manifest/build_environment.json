@@ -1,0 +1,35 @@
+{
+  "no_model_loaded": true,
+  "no_training": true,
+  "orchestration_python": "3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.1.1.101)]",
+  "parser": "Microsoft.CodeAnalysis 4.14.0 with exact cached NuGet dependencies, running on .NET6",
+  "platform": "macOS-27.0.1-arm64-arm-64bit-Mach-O",
+  "tokenizer": "see manifest/tokenizer.json; separate Python3.11 runtime",
+  "tools": {
+    "clang++": {
+      "exit_code": 0,
+      "path": "/usr/bin/clang++",
+      "version_output": "Apple clang version 17.0.0 (clang-1700.6.4.2)\nTarget: arm64-apple-darwin27.0.0\nThread model: posix\nInstalledDir: /Library/Developer/CommandLineTools/usr/bin\n"
+    },
+    "dotnet": {
+      "exit_code": 0,
+      "path": "/usr/local/share/dotnet/dotnet",
+      "version_output": ".NET SDK (reflecting any global.json):\n Version:   6.0.202\n Commit:    f8a55617d2\n\nRuntime Environment:\n OS Name:     Mac OS X\n OS Version:  27.0\n OS Platform: Darwin\n RID:         osx-arm64\n Base Path:   /usr/local/share/dotnet/sdk/6.0.202/\n\nHost (useful for support):\n  Version: 6.0.4\n  Commit:  be98e88c76\n\n.NET SDKs installed:\n  6.0.202 [/usr/local/share/dotnet/sdk]\n\n.NET runtimes installed:\n  Microsoft.AspNetCore.App 6.0.4 [/usr/local/share/dotnet/shared/Microsoft.AspNetCore.App]\n  Microsoft.NETCore.App 6.0.4 [/usr/local/share/dotnet/shared/Microsoft.NETCore.App]\n\nTo install additional .NET runtimes or SDKs:\n  https://aka.ms/dotnet-download\n"
+    },
+    "doxygen": {
+      "exit_code": 0,
+      "path": "/opt/homebrew/bin/doxygen",
+      "version_output": "1.10.0 (GIT-NOTFOUND)\n"
+    },
+    "node": {
+      "exit_code": 0,
+      "path": "/opt/homebrew/bin/node",
+      "version_output": "v26.8.2\n"
+    },
+    "python3": {
+      "exit_code": 0,
+      "path": "/opt/homebrew/bin/python3",
+      "version_output": "Python 3.14.7\n"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "application": "/Applications/Rhino 8.app",
+  "assembly_manifest": "manifest/assemblies.jsonl",
+  "cached_sources": 248,
+  "core_assembly_versions": {
+    "Eto": "2.11.0.0",
+    "GH_IO": "8.35.26251.13002",
+    "Grasshopper": "8.35.26251.13002",
+    "Rhino.UI": "8.35.26251.13002",
+    "RhinoCommon": "8.35.26251.13002"
+  },
+  "file_hash_manifest": "manifest/installation_files.jsonl",
+  "info_plist_sha256": "68ab057917ebcbae1753b389ae66b8aa41b96d3c7b6aeb3eac180d913e30d3de",
+  "installation_files": 1406,
+  "native_sdk_build": "8.35.26251.13001",
+  "other_installed_rhino": "RhinoBETA.app excluded; target is Rhino 8.app",
+  "platform": "macOS-27.0.1-arm64-arm-64bit-Mach-O",
+  "rhino_build": "8.35.26251.13002",
+  "service_release": "8.35"
+}
